@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Amintiri pentru Bubu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Bun venit, Bubu</h1>
+    <p>Acest loc a fost făcut pentru tine, cu toată dragostea.</p>
+  </header>
+
+  <nav>
+    <a href="#">Povești</a>
+    <a href="#">Poze</a>
+    <a href="#">Gânduri</a>
+  </nav>
+
+  <main>
+    <p>
+      Aici sunt amintiri, cuvinte și iubire.
+      Oricând vei avea nevoie, întoarce-te aici.
+    </p>
+  </main>
+
+  <footer>
+    <p>Cu dragoste, Tata</p>
+  </footer>
+
+</body>
+</html>
